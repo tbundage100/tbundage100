@@ -6,12 +6,13 @@
 
 - <b>Splunk SIEM </b>- <b> Working with Splunk platform practice</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>LetsDefend.io SOC Analyst Labs</b>
+  - [EDR Endpoint Detection and Response](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Praciting DS & Algos in Python </h2>
+  - [More Homelabs](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="MarieBundage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Linkedin]
 
 
 [linkedin]: https://linkedin.com/in/marie-bundage-a5bb7911a/
