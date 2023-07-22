@@ -8,8 +8,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>LetsDefend.io SOC Analyst Labs</b>
   - [EDR Endpoint Detection and Response](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Praciting DS & Algos in Python </h2>
-  - [More Homelabs](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vpn Pratice Lab </h2>
+  - [Vpn Usage](https://github.com/tbundage100/MarieHomeLab-VPN/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="MarieBundage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Linkedin]
